@@ -1,0 +1,12 @@
+*sw[op]
+*~
+*bak
+*-backups/
+*-rescue*
+_autosave*
+
+fp-info-cache
+fp-lib-table
+sym-lib-table
+
+.DS_Store
