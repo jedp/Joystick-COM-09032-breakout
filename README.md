@@ -7,6 +7,10 @@ The datasheet from Sparkfun includes no measurements of any use, which is a
 tragedy, and the footprints I've found online do not quite match the physical
 measurements I've taken on a real device.
 
+![Footprint](footprint.png)
+
+Not the world's most beautiful footprint, but serviceable.
+
 ![PCB View](joystick-breakout.png)
 
 ## BOM
